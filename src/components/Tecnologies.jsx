@@ -20,8 +20,7 @@ const iconVariants = (duration) => ({
             repeatType: "reverse",
         }
     }
-  })
-
+})
 
 const Tecnologies = () => {
     return (

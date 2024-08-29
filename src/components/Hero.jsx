@@ -23,6 +23,7 @@ const Hero = () => {
                         <motion.p variants={container(1)} initial="hidden" animate="visible" className="my-2 max-w-xl py-6 font-light tracking-tighter">
                             {HERO_CONTENT}
                         </motion.p>
+                        <button type="button" class="bg-green-600 text-white font-bold p-5 rounded-full hover:bg-green-700" onClick={() => {window.open('https://www.linkedin.com/in/karlosgehlen/', '_blank')} }>Vamos nos conectar?</button>
                     </div>
                 </div>
                 <div className="w-full lg:w-1/2 lg:p-20">

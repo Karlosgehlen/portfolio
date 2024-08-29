@@ -1,13 +1,6 @@
 export const HERO_CONTENT = ['Sou um desenvolvedor full stack com habilidade para criar aplicações web robustas e escaláveis. Com mais de um ano de experiência prática, aprimorei minhas habilidades em tecnologias front-end como React, bem como em tecnologias back-end como Codelgniter e MySQL. Meu objetivo é aproveitar minha experiência para criar soluções inovadoras que impulsionem o crescimento dos negócios e proporcionem experiências excepcionais ao usuário.'];
 
-
-
-export const ABOUT_TEXT = ['Sou um desenvolvedor full stack apaixonado pelo universo da programação. Minha jornada começou através da minha paixão por games, que me levou a explorar o mundo fascinante da tecnologia e do desenvolvimento de software. Atualmente, estou cursando Ciências da Computação, buscando aprimorar ainda mais minha base teórica e prática nesse campo dinâmico. '
-]
-
-
-
-
+export const ABOUT_TEXT = ['Olá, me chamo Karlos e sou um profissional apaixonado por tecnologia e programação. Desde o início da minha carreira, sempre busquei ser proativo, indo além do que é esperado para garantir que estou sempre atualizado com as últimas tendências e inovações no mundo da tecnologia. Minha jornada no campo da programação começou com um grande amor: os games. Desde jovem, os jogos não apenas me fascinaram, mas também despertaram meu interesse por como são criados e desenvolvidos. Esse entusiasmo inicial se transformou em uma paixão genuína pela programação. Sou resiliente e encaro desafios como oportunidades de aprendizado e crescimento. Quando encontro um obstáculo, vejo isso como uma chance de aprimorar minhas habilidades e encontrar soluções criativas. Minha paixão por programação não se limita apenas ao que já conheço; estou sempre buscando novas formas de expandir meu conhecimento e melhorar minhas competências. ']
 
 export const EXPERIENCES = [
     {
@@ -18,19 +11,7 @@ export const EXPERIENCES = [
     },  
 ]
 
-export const PROJECTS = [
-    {
-        title: "Projeto", 
-        // image: 
-        description: "kkkkkkkkkkkkkk",
-        technologies: ["linguagens"],
-    }    
-]
-
-export const CONTACT = [
-    {
-        address: "Canoas-RS",
-        phoneNo: "(51) 98490-2425",
-        email: "karloseduardo.reis@gmail.com",
-    },  
-]
+export const CONTACT = {
+    phoneNo: "(51) 98490-2425",
+    email: "karloseduardo.reis@gmail.com",
+}
